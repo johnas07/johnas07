@@ -1,0 +1,10 @@
+C:\Users\escobar\Desktop\escobar\escobar\bin\Debug\escobar.exe.config
+C:\Users\escobar\Desktop\escobar\escobar\bin\Debug\escobar.exe
+C:\Users\escobar\Desktop\escobar\escobar\bin\Debug\escobar.pdb
+C:\Users\escobar\Desktop\escobar\escobar\obj\Debug\escobar.csprojResolveAssemblyReference.cache
+C:\Users\escobar\Desktop\escobar\escobar\obj\Debug\escobar.escobar.resources
+C:\Users\escobar\Desktop\escobar\escobar\obj\Debug\escobar.johnas.resources
+C:\Users\escobar\Desktop\escobar\escobar\obj\Debug\escobar.Properties.Resources.resources
+C:\Users\escobar\Desktop\escobar\escobar\obj\Debug\escobar.csproj.GenerateResource.Cache
+C:\Users\escobar\Desktop\escobar\escobar\obj\Debug\escobar.exe
+C:\Users\escobar\Desktop\escobar\escobar\obj\Debug\escobar.pdb
